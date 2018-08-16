@@ -1,0 +1,36 @@
+Needs :
+----------------------------------------
+1)Making Asynchronous HTTP requests
+
+2)fetching API   (Geolocation Api and dark sky api )
+
+3)
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Tasks to be performed:
+----------------------------------------------------------
+1)Creating Asynchronous node
+2)Relations between CallStack,Node Api,CallBack Queue, EventLoop
+3)CallBack Functions
+4)to encode and decode component =>encodeURIcomponent('address')
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+what I have learnt :
+
+-------------------------------------------------------
+
+1) http://maps.googleapis.com/maps/api/geocode/json?address=5/16 P P Thevar Street, Sulur, Coimbatore, Tamil Nadu 641402
+
+1)
+To make Http Request :-
+---------------------
+                        step 1: Go to npmjs.com/package/request (download this request module which will help us to make Http Request)
